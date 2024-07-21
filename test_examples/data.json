@@ -1,0 +1,39 @@
+{
+	"shapes": [
+		{
+		"type":"point",
+		"color": "dc143c",
+		"x":30, "y":275,
+		"line_width": 255
+		},
+		{
+		"type":"line",
+		"color": "6B8E23",
+		"x1":1, "y1":50, "x2":150, "y2":100,
+		"line_width": 10,
+		"line_style": 2
+		},
+		{
+		"type": "circle",
+		"x":20, "y":20, "radius": 25,
+		"line_style": 0
+		},
+		{
+		"type": "triangle",
+		"color": "00fa9a",
+		"x1":20, "y1":20, "x2":10, "y2":17, "x3":32, "y3":58
+		},
+		{
+		"type": "polygon",
+		"color": "40E0D0",
+		"x1":200, "y1":200, "x2":259, "y2":223,
+		"x3":232, "y3":258, "x4":170, "y4":230
+		},
+		{
+		"type": "text",
+		"text": "текст",
+		"color": "ff4500",
+		"x":60, "y":50
+		}
+	]
+}
